@@ -1,8 +1,5 @@
 //////////////////////////////////////////////////////////
-// This class has been automatically generated on
-// Thu Mar 26 20:55:12 2020 by ROOT version 6.18/04
-// from TTree HGCTB/SimHitEnergy
-// found on file: /eos/cms/store/group/dpg_hgcal/tb_hgcal/simulation2018/HGCal_TB18_October_ConfigurationI/SinglePart_33mBeam/VtxGaus_FTFP_BERT_EMN_v3/pion_100GeV/200324_011016/0000/TBGenSim_pi-_100GeV_5.root
+//  Author: Ashim Roy
 //////////////////////////////////////////////////////////
 
 #ifndef HGCTB18_SIM_h
